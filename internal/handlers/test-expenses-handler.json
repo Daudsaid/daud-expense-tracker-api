@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "amount": 9.99,
+    "category": "Food",
+    "note": "Test sandwich",
+    "date": "2025-11-17"
+  }
+]

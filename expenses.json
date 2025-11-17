@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "amount": 12.5,
+    "category": "Food",
+    "note": "Pret coffee",
+    "date": "2025-11-17"
+  },
+  {
+    "id": 2,
+    "amount": 12.5,
+    "category": "Food",
+    "note": "Pret coffee",
+    "date": "2025-11-17"
+  }
+]
